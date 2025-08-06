@@ -21,7 +21,7 @@
 - Icons: [Kora](https://github.com/bikass/kora)
 - Cursor Theme: [Catppouccin](https://github.com/catppuccin/cursors)
 - Color Palette: [Eidolon](https://github.com/Vallen217/dotfiles/blob/main/color_palette.md)
-- Wallpaper: [Fool's Moon Night](./wallpaper/lost-in-space.png)
+- Wallpaper: [Fool's Moon Night](./wallpaper/lost-in-space.png) using [feh](https://github.com/derf/feh)
 
 # Unix P Ahh Tools
 - System info summary: [neofetch](https://github.com/dylanaraps/neofetch)
