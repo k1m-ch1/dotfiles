@@ -39,12 +39,12 @@
 - private ip details
 - made things work with i3 a bit better (alerts)
 
-## Rofi
+## [Rofi](https://github.com/davatorium/rofi)
 - added emoji, power-menu plugins
 
-## Picom
+## [Picom](https://github.com/yshui/picom)
 - changed opacity and added shadows
 
-## neofetch
+## [neofetch](https://github.com/dylanaraps/neofetch)
 - added music player and private ip details
 - changed thumbnail
